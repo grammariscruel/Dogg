@@ -1,4 +1,4 @@
-<html>
+
     
 #!/bin/bash
 
@@ -60,4 +60,3 @@ else
 fi
 
 echo -e "${BLUE}[4/4] Installation Complete.${RESET}"
-<html>
