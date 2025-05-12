@@ -1,3 +1,5 @@
+<html>
+    
 #!/bin/bash
 
 # Use the Bash function syntax (parentheses are allowed)
@@ -58,3 +60,4 @@ else
 fi
 
 echo -e "${BLUE}[4/4] Installation Complete.${RESET}"
+<html>
